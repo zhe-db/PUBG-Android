@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Miramar</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+    <script src="https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    <script>
+      var layer;
+      function init() {
+        var mapMinZoom = 0;
+        var mapMaxZoom = 4;
+        var map = L.map('map', {
+          maxZoom: mapMaxZoom,
+          minZoom: mapMinZoom,
+          crs: L.CRS.Simple
+        }).setView([0, 0], mapMaxZoom);
+        
+        var mapBounds = new L.LatLngBounds(
+            map.unproject([0, 3072], mapMaxZoom),
+            map.unproject([3072, 0], mapMaxZoom));
+            
+        map.fitBounds(mapBounds);
+        layer = L.tileLayer('{z}/{x}/{y}.png', {
+          minZoom: mapMinZoom, maxZoom: mapMaxZoom,
+          bounds: mapBounds,
+          attribution: 'Rendered with <a href="https://www.maptiler.com/">MapTiler</a>',
+          noWrap: true,
+          tms: false
+        }).addTo(map);
+      }
+    </script>
+    <style>
+      html, body, #map { width:100%; height:100%; margin:0; padding:0; z-index: 1; }
+      #slider{ position: absolute; top: 10px; right: 10px; z-index: 5; }
+    </style>
+  </head>
+  <body onload="init()">
+    <div id="map"></div>
+    <input id="slider" type="range" min="0" max="1" step="0.1" value="1" oninput="layer.setOpacity(this.value)">
+  </body>
+</html>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\PUBG\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="634269d826283e4221210b70e7ebcb44b6e7d918">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\PUBG-react-native-maps-unspecified_1b456d78a9c48ad10f0da6196c74be706eccc5f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_46fa25fdb9f50933461e38aad12ab194f5132ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_c92675760b2a71780c3586c9c45855b1fb7de5eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_9c59686396e17cfa48680383f691dc29a28d26fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_ce24bbeba53930ce1c6767e2f351145a4fafde5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_0248133184e19c60628c750e0acec028e073ae43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_f4024fa6a76fe05407c0ece53e90ce51c45f4688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_09d64e27763e4125d5cb7e7a40f9261446c6714c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_671c2afe473704c944932228a2fd6fa83599ac78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_7181ff34cd267a6b97b8fa93b801ae6571287793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_1bc1c5dbf416ff98d1617f494a4e088902392bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3cbcf103e81b3baf6b3d77187eb615b8c23343bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_98abffc0eecdffdfcf9bb670b22f15ecf155a951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_7d921810edeba2c57da12d686834dfec17df25c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_553124dd60b20facd9726cbb0b93a0ba5cc324f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_dee2963537658535b0244b0aa986ce44e79d9d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_ae687fd6a7883b17eba9b4acf8b32af961979568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_6b646d8f6efd129bbd20defca31562eee05557ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_e087d742ca062b2e68d79376e5ff6519ab00910f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_360138f1e4a94575bd3217da83e37d7ffa1aaf08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_88418c49f521e61774c1b3f4301a7cb61f25ea37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1d538ffbab77f6fc22a2db57ad70c969bd7486f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_70983ba90c60efc7ffc7eb009193ff70aea8f473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_3cb6c99aec24f24aabe90afd3b2ce6235c088205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_966373d848b24fcc5c12995472737ce2233f7c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_fff6f6e1d71e401255e6b5b4f535d67cacf6db01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\exploded-aar\PUBG\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="C:\Users\ZHE WANG\PUBG\android\app\build\intermediates\pre-dexed\debug\PUBG-react-native-vector-icons-unspecified_00f412f720a85b15c6cb6784a666a1e9f6e6c88a.jar" />
+    </item>
+
+</items>
