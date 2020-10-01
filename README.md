@@ -1,5 +1,5 @@
-# PUBG-Radar
-An android app provides valuable information and strategies for PUBG Players.
+# PUBGM-Radar
+An android app that provides valuable information and strategies for PUBGM Players.
 
 ## TODO:
 - [x] Main Screen
